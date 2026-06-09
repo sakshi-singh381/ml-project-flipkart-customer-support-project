@@ -39,3 +39,9 @@ Customer support teams receive large volumes of queries. This project helps in u
 ---
 
 ## 📁 Project Structure
+
+├── data/ # Raw and processed datasets
+├── ml_model/ # Model training and prediction scripts
+├── output/ # Generated outputs / results
+├── requirements.txt # Project dependencies
+├── README.md # Project documentation
