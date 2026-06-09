@@ -20,14 +20,14 @@ The challenge is to identify factors affecting customer satisfaction and predict
 ---
 
 ## 📂 Dataset Information
-- Customer support interaction data
-- Includes:
+## 📂 Dataset
+- Source: Kaggle / Internal Flipkart customer support data
+- Size: ~85,000+ records
+- Features:
   - Issue type
   - Response time
   - Customer feedback
   - CSAT score
-- Source: Internal/Kaggle dataset (if used, mention exact link)
-
 ---
 
 ## ⚙️ Tech Stack
